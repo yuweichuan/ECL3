@@ -1,5 +1,5 @@
 # ECL 3.0
-ECL 3.0 is a highly sensitive cross-linking mass spectrometry data analysis tool, developed by Yu's group at HKUST (https://bioinformatics.hkust.edu.hk/). It is capable of analyzing both non-cleavable and cleavable cross-linking data. Additionally, a user-friendly graphical interface has been designed for convenient usage.
+ECL 3.0 is a highly sensitive cross-linking mass spectrometry data analysis tool, developed by Yu's group at HKUST (https://bioinformatics.hkust.edu.hk/). It is capable of analyzing both non-cleavable and cleavable cross-linking data. Additionally, a user-friendly graphical interface version under Windows system has been designed for convenient usage.
 # Usage
 1. Download all the files in the repository.
 2. Install python (3.6 or above) and add it to system path.
